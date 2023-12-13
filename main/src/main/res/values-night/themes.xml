@@ -1,0 +1,11 @@
+<!--
+  ~ Copyright (c) 2023.  edit by Yifuyou
+  -->
+
+<resources>
+
+    <style name="ThemeOverlay.YiLife.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_900</item>
+        <item name="fullscreenTextColor">@color/light_blue_A400</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<!--
+  ~ Copyright (c) 2023.  edit by Yifuyou
+  -->
+
+<resources>
+    <declare-styleable name="FullscreenAttrs">
+        <attr name="fullscreenBackgroundColor" format="color" />
+        <attr name="fullscreenTextColor" format="color" />
+    </declare-styleable>
+</resources>

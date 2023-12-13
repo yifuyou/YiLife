@@ -1,0 +1,22 @@
+
+/*
+ * Copyright (c) 2023.  edit by Yifuyou
+ */
+
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        maven {
+            url 'https://maven.aliyun.com/repository/public/'
+        }
+        maven{
+            url 'https://maven.aliyun.com/repository/google/'
+        }
+    }
+}
+rootProject.name = "YiLife"
+include ':app'
+include ':main'
+include ':baseModule'

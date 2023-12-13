@@ -1,0 +1,34 @@
+{
+  "fileType" : "powerList",
+  "listCount" : 4,
+  "list" : [
+    {
+      "name" : "下载中心",
+      "info" : "跳转下载页面",
+      "icon" : "main_notify",
+      "url" : "/web/loadPage/",
+      "type" : "self"
+    },
+    {
+      "name" : "下载",
+      "info" : "跳转下载页面",
+      "icon" : "main_notify",
+      "url" : "/web/loadPage/",
+      "type" : "self"
+    },
+    {
+      "name" : "360中心",
+      "info" : "跳转360页面",
+      "icon" : "main_notify",
+      "url" : "https://www.360.com",
+      "type" : "web"
+    },
+    {
+      "name" : "百度翻译",
+      "info" : "跳转百度翻译",
+      "icon" : "main_notify",
+      "url" : "https://fanyi.baidu.com/",
+      "type" : "web"
+    }
+  ]
+}
